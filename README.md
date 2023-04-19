@@ -7,7 +7,7 @@ Sou uma desenvolvedora web apaixonada por tecnologia e sempre buscando aprender 
 <br><br>
 
 
-<p align=center font-size: "24px">
+<p align=center ">
  Ferramentas e tecnologias que utilizo:
  </p>
 <p align="center">
