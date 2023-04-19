@@ -4,7 +4,9 @@
 Sou uma desenvolvedora web apaixonada por tecnologia e sempre buscando aprender mais. Atualmente estou estundando Back-end, para no futuro me tornar uma desenvolvedora Full-Stack!
 </p>
 
+<p align=center>
  Ferramentas e tecnologias que utilizo:
+ </p>
 <p align="center">
   <img src="https://img.shields.io/badge/bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white" height="25"/>
@@ -19,8 +21,9 @@ Sou uma desenvolvedora web apaixonada por tecnologia e sempre buscando aprender 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white" height="25"/>
 </p>
-
+<p align=center>
 Entre em contato comigo:
+ </p>
 <p align="center">
   <a href="mailto:kaahgonzalez99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
