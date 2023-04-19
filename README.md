@@ -2,7 +2,7 @@
 <p align=center>
 Sou uma desenvolvedora web apaixonada por tecnologia e sempre buscando aprender mais. Atualmente estou estundando Back-end, para no futuro me tornar uma desenvolvedora Full-Stack!
 </p>
-
+<br><br>
 
 
 <p align=center>
