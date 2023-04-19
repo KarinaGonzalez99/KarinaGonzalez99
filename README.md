@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+repositório+Github+!+!+!+ + + &color=F06292" width="600" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+repositório+Github+!+!+!&color=F06292" width="600" />
 
 
 Ferramentas e tecnologias que utilizo:
