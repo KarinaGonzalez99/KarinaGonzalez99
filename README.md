@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+repositório+Github)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+repositório+Github&color=F06292)]
+
 
 Ferramentas e tecnologias que utilizo:
 <p align="left">
