@@ -30,6 +30,7 @@ Entre em contato comigo:
 </p>
 
 <p align="center">
-![GIF divertido](https://media2.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e47xottqifxr5tvfkoijnwwzhm2o7ro7pmmppetw92z&rid=giphy.gif&ct=g)
+  <img src="https://media2.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e47xottqifxr5tvfkoijnwwzhm2o7ro7pmmppetw92z&rid=giphy.gif&ct=g" alt="GIF divertido"/>
 </p>
+
 
