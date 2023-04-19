@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+repositório+Github+!+!+!&color=F06292" width="600" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+repositório+Github+!+!+!&color=#77dd77" width="600" />
 
 
 Ferramentas e tecnologias que utilizo:
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" height="25"/>
@@ -12,6 +12,9 @@ Ferramentas e tecnologias que utilizo:
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" height="25"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/visual_studio_code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white" height="25"/>
 </p>
 
 Entre em contato comigo:
