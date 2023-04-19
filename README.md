@@ -1,14 +1,6 @@
-<head>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
-</head>
-
 <img src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+repositório+Github+!+!+!&color=77dd77" width="800" />
 
-<body>
-  <p style="font-family: 'Pacifico', cursive; font-size: 24px; width: 500px;">Ferramentas e tecnologias que utilizo:</p>
-
+ Ferramentas e tecnologias que utilizo:
 <p align="center">
   <img src="https://img.shields.io/badge/bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white" height="25"/>
@@ -24,7 +16,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white" height="25"/>
 </p>
 
-<p style="font-family: 'Pacifico', cursive; font-size: 24px; width: 500px;">Entre em contato comigo: </p>
+Entre em contato comigo:
 <p align="center">
   <a href="mailto:kaahgonzalez99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
@@ -33,4 +25,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
 </p>
-  </body>
+
