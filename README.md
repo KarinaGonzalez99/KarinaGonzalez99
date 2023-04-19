@@ -29,5 +29,5 @@ Entre em contato comigo:
   </a>
 </p>
 
-![GIF divertido]([https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--uxqgfA7M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idrudmils3eo9di1a59u.gif))
+![GIF divertido]([[https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--uxqgfA7M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idrudmils3eo9di1a59u.gif)](https://media2.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e47xottqifxr5tvfkoijnwwzhm2o7ro7pmmppetw92z&rid=giphy.gif&ct=g))
 
