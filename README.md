@@ -18,7 +18,7 @@ Ferramentas e tecnologias que utilizo:
 </p>
 
 Entre em contato comigo:
-<p align="left">
+<p align="center">
   <a href="mailto:kaahgonzalez99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
   </a>
