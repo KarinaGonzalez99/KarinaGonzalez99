@@ -1,5 +1,8 @@
 <img align= center src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+repositório+Github+!+!+!&color=77dd77" width="800" />
 
+
+Sou uma desenvolvedora web apaixonada por tecnologia e sempre buscando aprender mais. Atualmente estou estundando Back-end, para no futuro me tornar uma desenvolvedora Full-Stack!
+
  Ferramentas e tecnologias que utilizo:
 <p align="center">
   <img src="https://img.shields.io/badge/bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
@@ -25,4 +28,6 @@ Entre em contato comigo:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
 </p>
+
+![GIF divertido]([https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--uxqgfA7M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idrudmils3eo9di1a59u.gif))
 
