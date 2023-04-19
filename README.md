@@ -1,4 +1,6 @@
-<img align= center src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+repositório+Github+!+!+!&color=77dd77" width="800" />
+<p align=center>
+ <img align= center src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+repositório+Github+!+!+!&color=77dd77" width="800" />
+ </p>
 <p align=center>
 Sou uma desenvolvedora web apaixonada por tecnologia e sempre buscando aprender mais. Atualmente estou estundando Back-end, para no futuro me tornar uma desenvolvedora Full-Stack!
 </p>
