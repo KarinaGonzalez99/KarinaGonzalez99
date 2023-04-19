@@ -1,7 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+repositório+Github+!+!+!&color=77dd77" width="800" />
 
-
-Ferramentas e tecnologias que utilizo:
+<p width="500"> Ferramentas e tecnologias que utilizo: </p>
 <p align="center">
   <img src="https://img.shields.io/badge/bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white" height="25"/>
@@ -17,7 +16,7 @@ Ferramentas e tecnologias que utilizo:
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white" height="25"/>
 </p>
 
-Entre em contato comigo:
+<p width="500">Entre em contato comigo: </p>
 <p align="center">
   <a href="mailto:kaahgonzalez99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
