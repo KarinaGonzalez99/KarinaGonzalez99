@@ -13,7 +13,7 @@
 </p>
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center; align=center">
   <p style="font-size: 18px; font-weight: bold;">Fundamentos do Desenvolvimento Web</p>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; align=center">
     <img src="https://img.shields.io/badge/Unix-%232C2D72.svg?style=flat-square&logo=gnu-bash&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" height="25"/>
