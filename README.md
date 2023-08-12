@@ -23,6 +23,9 @@ Sou uma desenvolvedora web apaixonada por tecnologia e sempre buscando aprender 
   <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=Trello&logoColor=white" height="25"/>
+ <img src="https://logospng.org/download/python/logo-python-1024.png" height="25" style="border-radius: 3px; background-color: #306998; padding: 3px;">
+
 </p>
 <p align=center>
 Entre em contato comigo:
