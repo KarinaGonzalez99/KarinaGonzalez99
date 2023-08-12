@@ -56,12 +56,11 @@
 <p align="center">
   <strong><span style="font-size: 30px;"> 🌟 Git Status 🌟 </span></strong>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KarinaGonzalez99&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaGonzalez99&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </p>
-
+<br><br>
 <p align="center">
   <strong><span style="font-size: 30px;">📞 Contato 📞</span></strong>
 </p>
