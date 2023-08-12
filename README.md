@@ -11,6 +11,7 @@
 <p align="center">
   Ferramentas e tecnologias que utilizo:
 </p>
+<p align="center">
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Fundamentos do Desenvolvimento Web</p>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -58,7 +59,7 @@
     <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=flat-square&logo=slack&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/OpenAI-%233476AB.svg?style=flat-square&logo=openai&logoColor=white" height="25"/>
   </div>
-
+</p>
 </div>
 
 <p align="center">
