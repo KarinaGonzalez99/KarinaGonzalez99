@@ -13,7 +13,7 @@
 </p>
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Fundamentos do Desenvolvimento Web</p>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/Unix-%232C2D72.svg?style=flat-square&logo=gnu-bash&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" height="25"/>
@@ -22,7 +22,7 @@
   </div>
 
   <p style="font-size: 18px; font-weight: bold;">Front-end</p>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" height="25"/>
     <img src="https://img.shields.io/badge/React_Router-%23CA4245.svg?style=flat-square&logo=react-router&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Redux-%23593D88.svg?style=flat-square&logo=redux&logoColor=white" height="25"/>
@@ -33,7 +33,7 @@
   </div>
 
   <p style="font-size: 18px; font-weight: bold;">Back-end</p>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=json-web-tokens" height="25"/>
@@ -43,12 +43,12 @@
   </div>
 
   <p style="font-size: 18px; font-weight: bold;">Ciência da Computação</p>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" height="25"/>
   </div>
 
   <p style="font-size: 18px; font-weight: bold;">Outros</p>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=Trello&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Kanban-0091EA?style=flat-square&logo=kanban&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" height="25"/>
