@@ -11,7 +11,7 @@
 </p>
 
 <br>
-##🚀 Ferramentas e tecnologias 🚀
+## 🚀 Ferramentas e tecnologias 🚀
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/Unix-%232C2D72.svg?style=flat-square&logo=gnu-bash&logoColor=white" height="25"/>
@@ -53,14 +53,14 @@
 </div>
 
 <br><br>
-##🌟 Git Status 🌟
+## 🌟 Git Status 🌟
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KarinaGonzalez99&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaGonzalez99&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </p>
 <br><br>
 
-##📞 Contato 📞
+## 📞 Contato 📞
 
 <p align="center">
   <a href="mailto:kaahgonzalez99@gmail.com">
@@ -76,7 +76,7 @@
 
 <br>
 
-##🐶Cachorro? Sou cachorro não🐶
+## 🐶Cachorro? Sou cachorro não🐶
 <p align="center">
   <img src="https://media.tenor.com/9X-I0mcc_OgAAAAC/dog-funny.gif" alt="GIF divertido de auau"/>
 </p>
