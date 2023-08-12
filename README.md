@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+reposit%C3%B3rio+Github+!+!+!" width="800" style="filter: hue-rotate(270deg);" />
+  <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+reposit%C3%B3rio+Github+!+!+!&color=9370DB" width="800" />
 </p>
 
 <p align="center">
@@ -9,9 +9,7 @@
 <br>
 
 <p align="center" style="font-weight: bold; font-size: 30px;">Ferramentas e tecnologias que utilizo:</p>
-
 <div align="center">
-
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/Unix-%232C2D72.svg?style=flat-square&logo=gnu-bash&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" height="25"/>
