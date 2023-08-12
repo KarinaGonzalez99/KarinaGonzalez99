@@ -9,7 +9,8 @@
 <br>
 
 <p align="center">
-  <strong><u><span style="font-size: 30px;">Ferramentas e tecnologias que utilizo:</p></span></u></strong>
+  <strong><u><span style="font-size: 30px;">Ferramentas e tecnologias que utilizo:</span></u></strong>
+</p>
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/Unix-%232C2D72.svg?style=flat-square&logo=gnu-bash&logoColor=white" height="25"/>
