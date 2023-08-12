@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <strong><u><span style="font-size: 50px;">Ferramentas e tecnologias que utilizo:</span></u></strong>
+  <strong><u><span style="font-size: 50px; text-decoration: underline;">Ferramentas e tecnologias que utilizo:</span></u></strong>
 </p>
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
