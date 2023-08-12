@@ -2,7 +2,7 @@
   <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+reposit%C3%B3rio+Github+!+!+!&color=9370DB" width="800" />
 </p>
 
-<p align="center">
+<p align="justify">
  <u><span style="font-size: 100px;">Como desenvolvedora Full Stack, com 1 ano de experiência adquirida durante o curso na Trybe, tenho me dedicado principalmente a Javascript, NodeJS, ReactJS, Typescript e Python. 
 <br> Além disso, possuo habilidades em banco de dados e experiência em controle de versionamento com Git. Minha maior habilidade e fonte de orgulho é minha capacidade de aprender rapidamente. Comprometo-me a desenvolver soluções de alta qualidade, com disponibilidade e arquitetura sólidas. Busco constantemente aprimorar meu trabalho, adquirindo conhecimentos em novas tecnologias e compartilhando meu conhecimento com colegas. Tenho experiência em ferramentas de gestão de projetos e produtos, como GitHub, Trello e Figma, além de conhecimentos em testes automatizados. Estou motivada a enfrentar desafios e contribuir para o crescimento da empresa.
 <br> Além disso, eu adoro cachorros 🐶!</span></u>
