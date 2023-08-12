@@ -6,7 +6,7 @@
   Sou uma desenvolvedora web apaixonada por tecnologia e sempre buscando aprender mais. Atualmente estou estudando Back-end, para no futuro me tornar uma desenvolvedora Full-Stack!
 </p>
 
-<br><br>
+<br>
 
 <p align="center" style="font-weight: bold; font-size: 30px;">Ferramentas e tecnologias que utilizo:</p>
 
