@@ -11,7 +11,7 @@
 <p align="center">
   Ferramentas e tecnologias que utilizo:
 </p>
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center; align="center"">
   <p style="font-size: 18px; font-weight: bold;">Fundamentos do Desenvolvimento Web</p>
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Unix-%232C2D72.svg?style=flat-square&logo=gnu-bash&logoColor=white" height="25"/>
@@ -45,9 +45,6 @@
   <p style="font-size: 18px; font-weight: bold;">Ciência da Computação</p>
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=flat-square&logo=slack&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/OpenAI-%233476AB.svg?style=flat-square&logo=openai&logoColor=white" height="25"/>
   </div>
 
   <p style="font-size: 18px; font-weight: bold;">Outros</p>
@@ -57,6 +54,9 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=flat-square&logo=slack&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/ChatGPT-08BDBA?style=flat-square&logo=chatgpt&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=flat-square&logo=slack&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/OpenAI-%233476AB.svg?style=flat-square&logo=openai&logoColor=white" height="25"/>
   </div>
 </div>
 
