@@ -8,9 +8,7 @@
 
 <br><br>
 
-<div align="center">
   <p style="font-weight: bold; font-size: 30px;">Ferramentas e tecnologias que utilizo:</p>
-</div>
 
 <div align="center">
 
@@ -42,6 +40,7 @@
     <img src="https://img.shields.io/badge/ChatGPT-08BDBA?style=flat-square&logo=chatgpt&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/OpenAI-%233476AB.svg?style=flat-square&logo=openai&logoColor=white" height="25"/>
+</div>
 </div>
 
 <p align="center">
