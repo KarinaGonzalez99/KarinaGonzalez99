@@ -42,7 +42,9 @@
     <img src="https://img.shields.io/badge/OpenAI-%233476AB.svg?style=flat-square&logo=openai&logoColor=white" height="25"/>
 </div>
 </div>
-<br><br>
+
+<br><br><br><br><br><br><br><br>
+
 <p align="center">
   Entre em contato comigo:
 </p>
