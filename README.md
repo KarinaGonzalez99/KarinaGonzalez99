@@ -11,20 +11,30 @@ Sou uma desenvolvedora web apaixonada por tecnologia e sempre buscando aprender 
  Ferramentas e tecnologias que utilizo:
  </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=Trello&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/redux-593D88?style=flat-square&logo=redux&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/visual_studio_code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=Trello&logoColor=white" height="25"/>
- <img src="https://logospng.org/download/python/logo-python-1024.png" height="25" style="border-radius: 3px; background-color: #306998; padding: 3px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- Fundamentos do Desenvolvimento Web -->
+  <img src="https://img.shields.io/badge/Unix-%232C2D72.svg?style=flat-square&logo=gnu-bash&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" height="25"/>
+
+  <!-- Front-end -->
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/React_Router-%23CA4245.svg?style=flat-square&logo=react-router&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Redux-%23593D88.svg?style=flat-square&logo=redux&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/React%20Hooks-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" height="25"/>
+
+  <!-- Back-end -->
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=json-web-tokens" height="25"/>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" height="25"/>
+
+  <!-- Ciência da Computação -->
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" height="25"/>
+</div>
 
 </p>
 <p align=center>
