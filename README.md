@@ -10,9 +10,7 @@ Sou uma desenvolvedora web apaixonada por tecnologia e sempre buscando aprender 
 <p align=center ">
  Ferramentas e tecnologias que utilizo:
  </p>
-<p align="center">
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
- <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <p style="font-size: 18px; font-weight: bold;">Fundamentos do Desenvolvimento Web</p>
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Unix-%232C2D72.svg?style=flat-square&logo=gnu-bash&logoColor=white" height="25"/>
@@ -47,6 +45,7 @@ Sou uma desenvolvedora web apaixonada por tecnologia e sempre buscando aprender 
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" height="25"/>
   </div>
 </div>
+
 
 </div>
 
