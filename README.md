@@ -9,9 +9,10 @@
  Além disso, eu amo cachorros 🐶!</span></u>
   </p>
 </p>
-
 <br>
-## 🚀 Ferramentas e tecnologias 🚀
+
+##  🚀 Ferramentas e tecnologias 🚀
+
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/Unix-%232C2D72.svg?style=flat-square&logo=gnu-bash&logoColor=white" height="25"/>
