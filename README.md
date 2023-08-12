@@ -43,7 +43,7 @@
 </div>
 </div>
 
-<br><br><br><br>
+<br><br>
 
 <p align="center">
   Entre em contato comigo:
