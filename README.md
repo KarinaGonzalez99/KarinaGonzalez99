@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+reposit%C3%B3rio+Github+!+!+!&color=800080" width="800" />
+  <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+reposit%C3%B3rio+Github+!+!+!" width="800" style="filter: hue-rotate(270deg);" />
 </p>
 
 <p align="center">
