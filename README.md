@@ -8,8 +8,10 @@
 
 <br><br>
 
-<p align="center" font-weight: bold; font-size: 30px>
-  Ferramentas e tecnologias que utilizo:
+<div align="center">
+  <p style="font-weight: bold; font-size: 30px;">Ferramentas e tecnologias que utilizo:</p>
+</div>
+
 <div align="center">
 
   <p style="font-size: 18px; font-weight: bold;">Fundamentos do Desenvolvimento Web</p>
