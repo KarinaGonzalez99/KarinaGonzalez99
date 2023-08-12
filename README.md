@@ -3,12 +3,13 @@
 </p>
 
 <p align="center">
-  <strong><u><span style="font-size: 24px;">Como desenvolvedora Full-Stack, minha paixão pela tecnologia me motiva a buscar evolução diária. Além disso, eu adoro cachorros 🐶!</span></u></strong>
+  <strong><u><span style="font-size: 30px;">Como desenvolvedora Full-Stack, minha paixão pela tecnologia me motiva a buscar evolução diária. Além disso, eu adoro cachorros 🐶!</span></u></strong>
 </p>
 
 <br>
 
-<p align="center" style="font-weight: bold; font-size: 30px;">Ferramentas e tecnologias que utilizo:</p>
+<p align="center">
+  <strong><u><span style="font-size: 30px;">Ferramentas e tecnologias que utilizo:</p></span></u></strong>
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/Unix-%232C2D72.svg?style=flat-square&logo=gnu-bash&logoColor=white" height="25"/>
