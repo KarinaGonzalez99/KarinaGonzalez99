@@ -8,9 +8,7 @@
 
 <br><br>
 
-<div style="text-align: center;">
-  <p style="font-weight: bold; font-size: 30px;">Ferramentas e tecnologias que utilizo:</p>
-</div>
+<p align="center" style="font-weight: bold; font-size: 30px;">Ferramentas e tecnologias que utilizo:</p>
 
 <div align="center">
 
