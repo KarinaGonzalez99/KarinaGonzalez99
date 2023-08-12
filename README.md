@@ -8,7 +8,7 @@
 
 <br><br>
 
-<p align="center">
+<p align="center" font-weight: bold; font-size: 30px>
   Ferramentas e tecnologias que utilizo:
 <div align="center">
 
