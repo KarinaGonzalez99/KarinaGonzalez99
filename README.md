@@ -41,6 +41,14 @@
     <img src="https://img.shields.io/badge/ChatGPT-08BDBA?style=flat-square&logo=chatgpt&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/OpenAI-%233476AB.svg?style=flat-square&logo=openai&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Linux-%232C2D72.svg?style=flat-square&logo=linux&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2326A7DE.svg?style=flat-square&logo=tailwind-css&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=flat-square&logo=jest&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Testing%20Library-%23E33332.svg?style=flat-square&logo=testing-library&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="25"/>
+
 </div>
 </div>
 
