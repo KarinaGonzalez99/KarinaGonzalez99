@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Sou uma desenvolvedora web Full-Stack, que ama muito tecnologia e que está todos os dias tentando evoluir! E eu gosto muitooo de cachorro🐶!
+ Como desenvolvedora Full-Stack, minha paixão pela tecnologia me motiva a buscar evolução diária. Além disso, eu adoro cachorros 🐶!
 </p>
 
 <br>
