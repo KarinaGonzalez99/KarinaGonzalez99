@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Sou uma desenvolvedora web apaixonada por tecnologia e sempre buscando aprender mais. Atualmente estou estudando Back-end, para no futuro me tornar uma desenvolvedora Full-Stack!
+  Sou uma desenvolvedora web Full-Stack, que ama muito tecnologia e que está todos os dias tentando evoluir! E eu gosto muitooo de cachorro🐶!
 </p>
 
 <br>
