@@ -8,8 +8,8 @@
 
 <br><br>
 
-<div align: center>
-  <p style="font-weight: bold; font-size: 30px; align: center">Ferramentas e tecnologias que utilizo:</p>
+<div style="text-align: center;">
+  <p style="font-weight: bold; font-size: 30px;">Ferramentas e tecnologias que utilizo:</p>
 </div>
 
 <div align="center">
