@@ -65,6 +65,6 @@
 <br>
 
 <p align="center">
-  <img src="https://i.gifer.com/kkY.gif" alt="GIF divertido de auau"/>
+  <img src="https://tenor.com/pt-BR/view/dog-funny-laptop-working-dog-typing-gif-16765114" alt="GIF divertido de auau"/>
 </p>
 
