@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <strong><u><span style="font-size: 30px;">Como desenvolvedora Full-Stack, minha paixão pela tecnologia me motiva a buscar evolução diária. Além disso, eu adoro cachorros 🐶!</span></u></strong>
+  <strong><u><span style="font-size: 100px;">Como desenvolvedora Full-Stack, minha paixão pela tecnologia me motiva a buscar evolução diária. Além disso, eu adoro cachorros 🐶!</span></u></strong>
 </p>
 
 <br>
 
 <p align="center">
-  <strong><u><span style="font-size: 30px;">Ferramentas e tecnologias que utilizo:</span></u></strong>
+  <strong><u><span style="font-size: 50px;">Ferramentas e tecnologias que utilizo:</span></u></strong>
 </p>
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
