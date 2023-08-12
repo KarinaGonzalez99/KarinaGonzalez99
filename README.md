@@ -6,7 +6,7 @@
 <p align="justify">
  <u><span style="font-size: 100px;">Como desenvolvedora Full Stack, com 1 ano de experiência adquirida durante o curso na Trybe, tenho me dedicado principalmente a Javascript, NodeJS, ReactJS, Typescript e Python. Além disso, possuo habilidades em banco de dados e experiência em controle de versionamento com Git. Minha maior habilidade e fonte de orgulho é minha capacidade de aprender rapidamente. Comprometo-me a desenvolver soluções de alta qualidade, com disponibilidade e arquitetura sólidas. Busco constantemente aprimorar meu trabalho, adquirindo conhecimentos em novas tecnologias e compartilhando meu conhecimento com colegas. Estou motivada a enfrentar desafios e contribuir para o crescimento da empresa.
    <p align="center">
- Além disso, eu amo cachorros 🐶!</span></u>
+ Além disso, eu amo doguinhos 🐶!</span></u>
   </p>
 </p>
 <br>
@@ -77,7 +77,7 @@
 
 <br>
 
-## 🐶Cachorro? Sou cachorro não🐶
+## 🐶 Cachorro? Sou cachorro não 🐶
 <p align="center">
   <img src="https://media.tenor.com/9X-I0mcc_OgAAAAC/dog-funny.gif" alt="GIF divertido de auau"/>
 </p>
