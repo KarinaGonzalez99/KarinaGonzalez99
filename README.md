@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- Como desenvolvedora Full-Stack, minha paixão pela tecnologia me motiva a buscar evolução diária. Além disso, eu adoro cachorros 🐶!
+  <strong><u><span style="font-size: 24px;">Como desenvolvedora Full-Stack, minha paixão pela tecnologia me motiva a buscar evolução diária. Além disso, eu adoro cachorros 🐶!</span></u></strong>
 </p>
 
 <br>
