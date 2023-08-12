@@ -65,6 +65,6 @@
 <br>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e47xottqifxr5tvfkoijnwwzhm2o7ro7pmmppetw92z&rid=giphy.gif&ct=g" alt="GIF divertido"/>
+  <img src="https://i.gifer.com/kkY.gif" alt="GIF divertido de auau"/>
 </p>
 
