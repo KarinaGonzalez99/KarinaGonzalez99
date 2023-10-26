@@ -1,6 +1,6 @@
 <p align="center">
   <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+reposit%C3%B3rio+Github+!+!+!&color=9370DB" width="800" />
-</p>
+</p> 
 
 ##  👋 Sobre mim 👋
 <p align="justify">
